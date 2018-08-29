@@ -14,10 +14,10 @@ Project Lead: John Libert (john.libert@nist.gov)
 
 In order to properly digitize fingerprint imagery at all of the resolutions and depths specified above, NISTscan requires the following hardware specifications:
 
-MS Windows 7 or higher
-2.0 GHz or faster processor
-8 GB of RAM
-5 GB of hard drive space (for storing scanned images)
+* Microsoft Windows 7 or higher
+* 2.0 GHz or faster processor
+* 8 GB of RAM
+* 5 GB of hard drive space (for storing scanned images)
 
 
 ## Pre-requisites for building NISTscan
