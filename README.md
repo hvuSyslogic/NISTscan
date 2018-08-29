@@ -33,7 +33,7 @@ NISTscan utilizes the third-party Atalasoft DotTWAIN** library to support scanni
 4. Check the Visual Studio output console for any errors (warnings are OK)
 5. If the build is successful, the resulting executable (NISTscan.exe) will be placed in the "bin" sub-directory
 
-NOTE: If you plan to distribute or copy the NISTscan.exe, the .DLL files in the bin directory must be distributed along with the executable (and the target machine may also require the Visual Studio 2013 redistributable package: https://www.microsoft.com/en-us/download/details.aspx?id=40784)
+NOTE: If you plan to distribute or copy the NISTscan.exe, the .DLL files in the bin directory must be distributed along with the executable. The target machine may also require the Visual Studio 2013 redistributable package: https://www.microsoft.com/en-us/download/details.aspx?id=40784
 
 
 ## Disclaimer
