@@ -36,6 +36,16 @@ NISTscan utilizes the third-party Atalasoft DotTWAIN** library to support scanni
 NOTE: If you plan to distribute or copy the NISTscan.exe, the .DLL files in the bin directory must be distributed along with the executable. The target machine may also require the Visual Studio 2013 redistributable package: https://www.microsoft.com/en-us/download/details.aspx?id=40784
 
 
+## Configuring NISTscan
+
+NISTscan's settings are stored in the NISTscan.ini file (under the "bin" directory). Settings that may be altered include:
+
+* Save Path: The system path where scanned images should be saved
+* Scanner ID: An identifier that will be inserted into the filenames of scanned images
+
+We do not currently recommend altering any other settings, however if you have questions regarding these settings you may contact the author or project leader listed in the Contact section above.
+
+
 ## Disclaimer
 
 ** In no case does identification of any commercial product imply endorsement by the National Institute of Standards and Technology, nor does it imply that the products and equipment identified are necessarily the best available for the purpose.
