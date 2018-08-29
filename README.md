@@ -10,7 +10,7 @@ Developer:    John Grantham (john.grantham@nist.gov)
 Project Lead: John Libert (john.libert@nist.gov)
 
 
-## System Requirements for running NISTscan
+## System Requirements for Running NISTscan
 
 In order to properly digitize fingerprint imagery at all of the resolutions and depths specified above, NISTscan requires the following hardware specifications:
 
@@ -20,7 +20,7 @@ In order to properly digitize fingerprint imagery at all of the resolutions and 
 * 5 GB of hard drive space (for storing scanned images)
 
 
-## Pre-requisites for building NISTscan
+## Pre-requisites for Building NISTscan
 
 NISTscan utilizes the third-party Atalasoft DotTWAIN** library to support scanning using TWAIN-compliant devices. The DotTWAIN library (version 10.7 or higher) must be installed, along with a valid license (full or trial), prior to building the NISTscan project. Please see http://www.atalasoft.com for more information. 
 
